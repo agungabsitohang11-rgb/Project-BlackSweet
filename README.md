@@ -1,44 +1,10 @@
 # UAS-LaundryBlackSweet
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 \## Contributors
 
 
 
 \- \[Agung Anugrah Brilianto Sitohang](https://github.com/agungabsitohang11-rgb)
+
+
 
